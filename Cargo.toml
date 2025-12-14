@@ -18,7 +18,7 @@ categories = ["mathematics", "science"]
 ndarray = "^0.15"
 num-traits = "^0.2"
 num = "^0.4"
-easyfft = "^0.2"
+easyfft = "^0.4"
 
 [dev-dependencies]
 ndarray-linalg = "^0.16"
